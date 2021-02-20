@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{vkA4:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return u}));var a=t("q1tI"),r=t.n(a);function u(){return r.a.createElement(r.a.Fragment,null,r.a.createElement("p",null,"página da empresa"))}}}]);
-//# sourceMappingURL=component---src-pages-empresa-js-08733435a89114f6dfdd.js.map
