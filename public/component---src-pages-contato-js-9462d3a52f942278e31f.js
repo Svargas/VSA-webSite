@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{MGsB:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return u}));var a=e("q1tI"),r=e.n(a);function u(){return r.a.createElement(r.a.Fragment,null,r.a.createElement("p",null,"página da Contato"))}}}]);
+//# sourceMappingURL=component---src-pages-contato-js-9462d3a52f942278e31f.js.map

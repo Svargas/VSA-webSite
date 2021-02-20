@@ -1,0 +1,18 @@
+.wrap {
+  display: flex;
+  /* background-image: url("../images/ar2.jpg"); */
+  height: 60px;
+  background: cadetblue;
+}
+nav {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  width: 60%;
+  padding: 20px;
+}
+.logo {
+  display: flex;
+  width: 30%;
+  background: red;
+}
